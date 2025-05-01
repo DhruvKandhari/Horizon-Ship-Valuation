@@ -28,7 +28,7 @@ In this project, I performed a detailed valuation analysis of maritime vessels f
 - Led the final project presentation to stakeholders, highlighting strategic insights.
 
 ### 📚 Presentation
-Check out my detailed presentation here: [Horizon Ship Price Valuation]().
+Check out my detailed presentation here: [Horizon Ship Price Valuation](https://github.com/DhruvKandhari/Horizon-Ship-Valuation/blob/main/HORIZON-Presentation.pdf).
 
 ### ✉️ Let's Connect
 - **LinkedIn:** [Dhruv Kandhari](https://www.linkedin.com/in/dhruvkandhari/)
